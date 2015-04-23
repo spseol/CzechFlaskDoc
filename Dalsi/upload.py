@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Created on Sat Dec 20 14:23:04 2014
 
@@ -7,7 +7,7 @@ Created on Sat Dec 20 14:23:04 2014
 import os
 from flask import Flask, request, redirect, url_for, send_from_directory
 from werkzeug import secure_filename
-nahravaci_slozka = 'C:\uploads'
+nahravaci_slozka = 'C:\Users\Carko\Desktop\uploads'
 povolene_pripony = set(['txt', 'pdf', 'png', 'jpg', 'jpeg', 'gif'])
 app = Flask(__name__)
 app.config['nahravaci_slozka'] = nahravaci_slozka
