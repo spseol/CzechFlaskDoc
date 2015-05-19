@@ -19,10 +19,10 @@ Obsah:
    
 
 
-Indices and tables
+Vyhledávání
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`search` 
 
+.. * :ref:`genindex`
+.. * :ref:`modindex`
